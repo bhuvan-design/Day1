@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Im Batman and i need to dave the Goutham
+=======
+Im Batman and I m brucE BANNER
+>>>>>>> 1rf25cs404
